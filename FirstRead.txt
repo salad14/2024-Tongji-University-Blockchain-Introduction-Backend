@@ -1,0 +1,4 @@
+dotnet add package Oracle.EntityFrameworkCore --version 6.21.4
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0.0
+dotnet add package Swashbuckle.AspNetCore --version 6.4.0
+dotnet add package Nethereum.Web3 --version 4.6.0
